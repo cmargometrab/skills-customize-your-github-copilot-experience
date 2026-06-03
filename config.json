@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "sqlite-persistence",
+      "title": "Python Data Persistence with SQLite",
+      "description": "Build a SQLite-backed Python app that stores and manages records persistently.",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
