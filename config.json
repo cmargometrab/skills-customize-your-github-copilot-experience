@@ -27,6 +27,20 @@
       "dueDate": "2026-05-04"
     },
     {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a FastAPI application with CRUD endpoints and request validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-06-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
